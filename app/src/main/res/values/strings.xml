@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ThreadAppUICompose</string>
+    <string name="home_route">Home</string>
+    <string name="search_route">Search</string>
+    <string name="new_thread_route">NewThread</string>
+    <string name="activity_route">Activity</string>
+    <string name="profile_route">Profile</string>
+
 </resources>
